@@ -1,8 +1,4 @@
-# Jenkins Upgradev3
-
-![Jenkins Logo](https://jenkins.io/images/logos/jenkins-logo.png)
-
-## COURES Overview
+## project Overview
 
 This repository contains scripts and documentation to assist in upgrading Jenkins to version 3.0 and beyond. Jenkins is a widely-used open-source automation server that helps to automate various aspects of building, testing, and deploying software.
 
@@ -44,13 +40,13 @@ Before attempting to upgrade Jenkins using the scripts in this repository, ensur
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/anshulc55/Jenkins_Upgradev3.git
+   git clone https://github.com/abhijeetpatel-06/Jenkins_java_application.git
    ```
 
 2. Change to the repository directory:
 
    ```bash
-   cd Jenkins_Upgradev3
+   cd Jenkins_java_application
    ```
 
 3. Follow the instructions in the [Installation Guide](docs/InstallationGuide.md) to set up the upgrade environment.
@@ -62,7 +58,3 @@ Detailed instructions on how to use the scripts and perform the Jenkins upgrade 
 ## Contributing
 
 If you want to contribute to this project, follow the guidelines outlined in the [Contributing Guide](CONTRIBUTING.md). Contributions, bug reports, and feature requests are welcome.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
